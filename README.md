@@ -22,7 +22,7 @@
 
 通过申请一张虚拟卡进行订阅支付海外的大部分服务，比较稳定的虚拟卡，用的是wildscard。
 
-> WildsCard官网：[https://yeka.ai/i/UPGPT](https://yeka.ai/i/UPGPT)
+> WildsCard官网：[https://wildscard.com](https://wildscard.com)
 
 官网也有对应的【cursor 一键升级】功能，对小白比较方便。**这种是自己订阅支付的方法，订阅后的Cursor Pro会员额度就是500次。**
 
