@@ -8,10 +8,6 @@
 
 **当前你是Pro的话，也可以直接升级为5千次额度**
 
-<img src="https://upchatgpt.cn/img/qrcode-gzh.png" alt="公众号：摆烂工程师" style="zoom:50%;" />
-
-![](https://pic1.zhimg.com/80/v2-914e5eed4178b9c1a8fa40f4f12b5505_720w.jpeg)
-
 如果你不知道如何支付购买订阅Cursor Pro会员的话，下面先教你如何自己订阅支付Cursor Pro会员。
 
 <!--more-->
